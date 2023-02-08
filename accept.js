@@ -1,4 +1,4 @@
-#LinkedIn Auto accept all connection requests
+// LinkedIn Auto accept all connection requests
 
 const iter = async () => {
     const waitFor = (duration) =>  new Promise(resolve => setTimeout(resolve, duration));
